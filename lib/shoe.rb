@@ -24,5 +24,8 @@ class Shoe
     @brand = brand
   end
   
+  BRANDS = []
+  
+  
   
 end
