@@ -18,7 +18,7 @@
     
 # end
 
-class shoe
+class Shoe
   
   
 end
