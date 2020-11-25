@@ -17,3 +17,8 @@
 #   end
     
 # end
+
+class shoe
+  
+  
+end
